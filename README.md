@@ -24,7 +24,7 @@ The level of difficulty of the programs is basic. They are suitable for people w
 
 # Output snaps
 
-* The output snaps of each code are shown below:- *
+The output snaps of each code are shown below:- 
 program 1 output
 ![]()
 <div align="left">
