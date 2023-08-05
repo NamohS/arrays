@@ -31,6 +31,6 @@ The output snaps of each code are shown below:-
 * Creating and printing arrays 
 ![]()
 <div align="left">
-  <img src="exp_ar_01.jpg" width="10%" height="10%"/>
+  <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
