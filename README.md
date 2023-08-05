@@ -41,7 +41,7 @@ The level of difficulty of the programs is basic. They are suitable for people w
 
 3]  Linear searching in arrays
 <div align="left">
-  <img src="exp_ar_04.jpg" width="17.5%" height="17.5%"/>
+  <img src="exp_ar_02.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
 
