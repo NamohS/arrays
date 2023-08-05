@@ -4,17 +4,19 @@ This repository contains a collection of basic C++ programs that demonstrate the
 
 The programs cover a variety of topics, including:
 
-Creating and printing arrays 
+* Creating and printing arrays 
 
 * Accessing elements of arrays to find the maximum and minimum integer
 
-* Searching and sorting arrays 
+* Linear searching in arrays
 
-* Analyzing the performance of array operations 
+* Finding peak values in arrays
 
-* Using arrays to solve problems 
+* Modifying arrays to store zeroes at end of the array
 
-* The programs are well-commented and easy to understand. They can be used as a learning resource for students and programmers who are interested in learning about arrays in C++.
+* To find peak values in a array
+
+The programs are well-commented and easy to understand. They can be used as a learning resource for students and programmers who are interested in learning about arrays in C++.
 
 # How to use
 
@@ -25,7 +27,8 @@ The level of difficulty of the programs is basic. They are suitable for people w
 # Output snaps
 
 The output snaps of each code are shown below:- 
-program 1 output
+
+* Creating and printing arrays 
 ![]()
 <div align="left">
   <img src="exp_ar_01.jpg" width="10%" height="10%"/>
