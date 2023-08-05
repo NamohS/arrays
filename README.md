@@ -16,15 +16,15 @@ Creating and printing arrays
 
 * The programs are well-commented and easy to understand. They can be used as a learning resource for students and programmers who are interested in learning about arrays in C++.
 
-How to use
+# How to use
 
 To run the programs, you will need to have a C++ compiler installed on your computer. You can then open the programs in a C++ IDE, such as Visual Studio Code.
 
-The level of difficulty of the programs is basic. They are suitable for students who are new to C++ or arrays.
+The level of difficulty of the programs is basic. They are suitable for people who are new to C++ or arrays.
 
-Output snaps
+# Output snaps
 
-The output snaps of each code are shown below.
+* The output snaps of each code are shown below:- *
 program 1 output
 ![]()
 <div align="left">
