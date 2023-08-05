@@ -1,2 +1,2 @@
 # arrays
-programs based on arrays 
+programs done in class based on arrays 
