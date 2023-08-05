@@ -1,10 +1,10 @@
-#Introduction
+# Introduction
 
 This repository contains a collection of basic C++ programs that demonstrate the use of arrays. The programs are written in C++ and have only been tested on Windows.
 
 The programs cover a variety of topics, including:
 
-*Creating and printing arrays [Output snap of create_array.cpp]
+* Creating and printing arrays [Output snap of create_array.cpp]
 *Accessing elements of arrays to find the maximum and minimum integer [Output snap of access_array.cpp]
 *Searching and sorting arrays [Output snap of sort_array.cpp]
 *Analyzing the performance of array operations [Output snap of analyze_array.cpp]
