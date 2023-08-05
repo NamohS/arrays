@@ -6,15 +6,15 @@ The programs cover a variety of topics, including:
 
 Creating and printing arrays 
 
-*Accessing elements of arrays to find the maximum and minimum integer
+* Accessing elements of arrays to find the maximum and minimum integer
 
-*Searching and sorting arrays 
+* Searching and sorting arrays 
 
-*Analyzing the performance of array operations 
+* Analyzing the performance of array operations 
 
-*Using arrays to solve problems 
+* Using arrays to solve problems 
 
-*The programs are well-commented and easy to understand. They can be used as a learning resource for students and programmers who are interested in learning about arrays in C++.
+* The programs are well-commented and easy to understand. They can be used as a learning resource for students and programmers who are interested in learning about arrays in C++.
 
 How to use
 
