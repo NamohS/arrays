@@ -24,13 +24,18 @@ To run the programs, you will need to have a C++ compiler installed on your comp
 
 The level of difficulty of the programs is basic. They are suitable for people who are new to C++ or arrays.
 
-# Output snaps
+# Program wise explanation
 
-The output snaps of each code are shown below:- 
 
-* Creating and printing arrays 
+
+1] Creating and printing arrays 
 ![]()
 <div align="left">
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
+2] Accessing elements of arrays to find the maximum and minimum integer
+<div align="left">
+  <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
+</div><br/>
+
 
