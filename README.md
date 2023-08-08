@@ -84,3 +84,8 @@ Output of the program can be shown as:
 </div><br/>
 
 #### 4] [Finding peak values in arrays](exp_to_find_peak_values_in_arrays.cpp)
+
+<div align="left">
+  <img src="exp_ar_04.jpg" width="17.5%" height="17.6%"/>
+</div><br/>
+
