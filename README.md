@@ -44,7 +44,7 @@ The next loop, for (int i = 0; i < 10; i++), loops 10 times. Inside the loop, th
 The next loop, for (int i = 0; i < 10; i++), loops 10 times. Inside the loop, the cout object is used to display the array.
 
 The code is a simple example of how to read and write integers from an array. It can be modified to read and write other types of data, such as strings or floats. It can also be modified to perform more complex operations on the data stored in the array.
-the output for the code is shown below:
+Output for the code is shown below:
 
 <div align="left">
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
@@ -62,7 +62,7 @@ After the loop is finished, the code prints the max and min variables.
 
 In other words, the code first reads 10 integers from the user. Then, it finds the largest and smallest of the 10 integers and prints them out.
 
-the output of the code can be shown below:
+Output of the code can be shown below:
 
 <div align="left">
   <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
@@ -77,7 +77,7 @@ A for loop is then used to iterate over the array. Inside the loop, the if state
 
 After the for loop is finished, the if statement is used to check if the count variable is greater than 0. If the count variable is greater than 0, the program prints the positions of the number in the array. Otherwise, the program prints a message saying that the number was not found.
 
-output of the program can be shown as:
+Output of the program can be shown as:
 
 <div align="left">
   <img src="expar02.jpg" width="17.5%" height="17.6%"/>
