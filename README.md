@@ -68,7 +68,7 @@ Output of the code can be shown below:
   <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-#### 3]  [Linear searching in arrays]
+#### 3]  [Linear searching in arrays](exp_linear_search_in_arrays.cpp)
 The program first declares an array of 10 integers, arr[10]. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
 
 Next, the program declares a variable, num, to store the number to search for. The program also declares a variable, count, to store the number of times the number is found in the array. Finally, the program declares an array, pos[10], to store the positions of the number in the array.
