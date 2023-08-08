@@ -28,7 +28,7 @@ The level of difficulty of the programs is basic. They are suitable for people w
 
 
 
-#### 1] Creating and printing arrays :
+#### 1] [Creating and printing arrays](exp_to_input_and_print_array.cpp) :
 
 This code is a simple C++ program that demonstrates how to read and write integers from an array. The program first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers  entered by the user are stored in the array. Finally, the code prints the 10 integers stored in the array.
   
