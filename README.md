@@ -48,6 +48,19 @@ the output for the code is shown below:
 </div><br/>
 
 #### 2] Accessing elements of arrays to find the maximum and minimum integer
+
+This code reads 10 integers from the user and prints the maximum and minimum values. It first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
+
+Next, the code declares two variables, max and min, to store the maximum and minimum values of the array, respectively. The max variable is initialized to the first element of the array, and the min variable is also initialized to the first element of the array.
+
+The code then iterates over the array, comparing each element to the max and min variables. If the current element is greater than the max variable, the max variable is updated to the current element. If the current element is less than the min variable, the min variable is updated to the current element.
+
+After the loop is finished, the code prints the max and min variables.
+
+In other words, the code first reads 10 integers from the user. Then, it finds the largest and smallest of the 10 integers and prints them out.
+
+the output of the code can be shown below:
+
 <div align="left">
   <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
