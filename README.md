@@ -69,6 +69,16 @@ the output of the code can be shown below:
 </div><br/>
 
 #### 3]  Linear searching in arrays
+The program first declares an array of 10 integers, arr[10]. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
+
+Next, the program declares a variable, num, to store the number to search for. The program also declares a variable, count, to store the number of times the number is found in the array. Finally, the program declares an array, pos[10], to store the positions of the number in the array.
+
+A for loop is then used to iterate over the array. Inside the loop, the if statement is used to compare the current element of the array to the num variable. If the current element is equal to the num variable, the pos[count] variable is updated to the current element. The count variable is also incremented by 1.
+
+After the for loop is finished, the if statement is used to check if the count variable is greater than 0. If the count variable is greater than 0, the program prints the positions of the number in the array. Otherwise, the program prints a message saying that the number was not found.
+
+output of the program can be shown as:
+
 <div align="left">
   <img src="expar02.jpg" width="17.5%" height="17.6%"/>
 </div><br/>
