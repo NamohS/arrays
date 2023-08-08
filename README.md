@@ -30,18 +30,18 @@ The level of difficulty of the programs is basic. They are suitable for people w
 
 #### 1] Creating and printing arrays :
 
-This code is a simple C++ program that demonstrates how to read and write integers from an array. The program first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array. Finally, the code prints the 10 integers stored in the array.
-
-The code is divided into three main parts:
-
-Declaring the array
-The first line of code, int arr[10];, declares an array of 10 integers. The int keyword tells the compiler that the array will store integers. The [10] after the int keyword specifies that the array will have 10 elements.
-
-Prompting the user to enter integers
-The next loop, for (int i = 0; i < 10; i++), loops 10 times. Inside the loop, the cout object is used to prompt the user to enter an integer. The cin object is then used to read the integer from the user and store it in the array at index i.
-
-The code is a simple example of how to read and write integers from an array. It can be modified to read and write other types of data, such as strings or floats. It can also be modified to perform more complex operations on the data stored in the array.
-the output for the code is shown below:
+  This code is a simple C++ program that demonstrates how to read and write integers from an array. The program first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers  entered by the user are stored in the array. Finally, the code prints the 10 integers stored in the array.
+  
+  The code is divided into three main parts:
+  
+  Declaring the array
+  The first line of code, int arr[10];, declares an array of 10 integers. The int keyword tells the compiler that the array will store integers. The [10] after the int keyword specifies that the array will have 10 elements.
+  
+  Prompting the user to enter integers
+  The next loop, for (int i = 0; i < 10; i++), loops 10 times. Inside the loop, the cout object is used to prompt the user to enter an integer. The cin object is then used to read the integer from the user and store it in the array at index i.
+  
+  The code is a simple example of how to read and write integers from an array. It can be modified to read and write other types of data, such as strings or floats. It can also be modified to perform more complex operations on the data stored in the array.
+  the output for the code is shown below:
 
 <div align="left">
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
