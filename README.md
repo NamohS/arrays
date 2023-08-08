@@ -47,12 +47,12 @@ the output for the code is shown below:
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-### 2] Accessing elements of arrays to find the maximum and minimum integer
+#### 2] Accessing elements of arrays to find the maximum and minimum integer
 <div align="left">
   <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-### 3]  Linear searching in arrays
+#### 3]  Linear searching in arrays
 <div align="left">
   <img src="expar02.jpg" width="17.5%" height="17.6%"/>
 </div><br/>
