@@ -50,7 +50,7 @@ Output for the code is shown below:
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-#### 2] [Accessing elements of arrays to find the maximum and minimum integer]
+#### 2] [Accessing elements of arrays to find the maximum and minimum integer](exp_max_and_min_in_arrays.cpp)
 
 This code reads 10 integers from the user and prints the maximum and minimum values. It first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
 
