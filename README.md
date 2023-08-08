@@ -34,10 +34,10 @@ This code is a simple C++ program that demonstrates how to read and write intege
   
 The code is divided into three main parts:
   
-###### Declaring the array
+##### Declaring the array
 The first line of code, int arr[10];, declares an array of 10 integers. The int keyword tells the compiler that the array will store integers. The [10] after the int keyword specifies that the array will have 10 elements.
   
-###### Prompting the user to enter integers
+##### Prompting the user to enter integers
 The next loop, for (int i = 0; i < 10; i++), loops 10 times. Inside the loop, the cout object is used to prompt the user to enter an integer. The cin object is then used to read the integer from the user and store it in the array at index i.
 
 ###### Printing the integers
