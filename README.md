@@ -83,4 +83,4 @@ Output of the program can be shown as:
   <img src="expar02.jpg" width="17.5%" height="17.6%"/>
 </div><br/>
 
-
+#### 4] Finding peak values in arrays
