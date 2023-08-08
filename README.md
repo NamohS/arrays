@@ -50,7 +50,7 @@ Output for the code is shown below:
   <img src="exp_ar_01.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-#### 2] Accessing elements of arrays to find the maximum and minimum integer
+#### 2] [Accessing elements of arrays to find the maximum and minimum integer]
 
 This code reads 10 integers from the user and prints the maximum and minimum values. It first declares an array of 10 integers. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
 
@@ -68,7 +68,7 @@ Output of the code can be shown below:
   <img src="exp_ar_03.jpg" width="17.5%" height="17.5%"/>
 </div><br/>
 
-#### 3]  Linear searching in arrays
+#### 3]  [Linear searching in arrays]
 The program first declares an array of 10 integers, arr[10]. Then, it prompts the user to enter 10 integers. The integers entered by the user are stored in the array.
 
 Next, the program declares a variable, num, to store the number to search for. The program also declares a variable, count, to store the number of times the number is found in the array. Finally, the program declares an array, pos[10], to store the positions of the number in the array.
@@ -83,4 +83,4 @@ Output of the program can be shown as:
   <img src="expar02.jpg" width="17.5%" height="17.6%"/>
 </div><br/>
 
-#### 4] Finding peak values in arrays
+#### 4] [Finding peak values in arrays]
