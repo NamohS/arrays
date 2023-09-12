@@ -95,6 +95,8 @@ Output of the program can be shown as:
 
 #### 5] [Printing zeroes at last](exp_to_print_zeroes_at_last_in_arrays_by_updating.cpp)
 
+This program that takes in 10 integers from the user and stores them in an array. It then counts the number of zeroes in the array and moves all the non-zero elements to the beginning of the array, shifting the zeroes to the end. Finally, it prints out the elements of the array.
+
 Output of the program can be shown as:
 
 <div align="left">
