@@ -95,3 +95,8 @@ Output of the program can be shown as:
 
 #### 5] [Printing zeroes at last](exp_to_print_zeroes_at_last_in_arrays_by_updating.cpp)
 
+Output of the program can be shown as:
+
+<div align="left">
+  <img src="exp_ar_05.jpg" width="17.5%" height="17.6%"/>
+</div><br/>
