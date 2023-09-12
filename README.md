@@ -85,7 +85,13 @@ Output of the program can be shown as:
 
 #### 4] [Finding peak values in arrays](exp_to_find_peak_values_in_arrays.cpp)
 
+This code is for finding the peak elements in an array. A peak element is an element that is greater than both of its adjacent elements. The code first takes in an array of 10 integers. Then, it iterates through the array and compares each element to its adjacent elements. If an element is greater than both of its adjacent elements, then it is a peak element and its position is stored in an array. Finally, the code prints out the positions of the peak elements.
+
+Output of the program can be shown as:
+
 <div align="left">
   <img src="exp_ar_04.jpg" width="17.5%" height="17.6%"/>
 </div><br/>
+
+#### 5] [
 
